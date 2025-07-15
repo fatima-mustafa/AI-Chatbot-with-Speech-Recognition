@@ -1,4 +1,6 @@
-# AI Chatbot
+# AI-Chatbot-with-Speech-Recognition
+
+Inspired by https://www.smashingmagazine.com/2017/08/ai-chatbot-web-speech-api-node-js/
 
 A full-stack AI-powered chatbot application with a React frontend and Node.js backend, integrating with the Ollama API for conversational AI and browser-based text-to-speech.
 
