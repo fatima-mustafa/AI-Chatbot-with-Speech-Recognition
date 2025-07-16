@@ -60,4 +60,4 @@ npm run dev
 - To connect to a different AI API, modify the backend API call in `backend/server.js`.
 
 ## License
-MIT 
+This project is open-source and available under the [MIT License](LICENSE).
