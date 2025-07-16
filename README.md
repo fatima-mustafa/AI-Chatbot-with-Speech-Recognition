@@ -26,7 +26,7 @@ AI_Chatbot/
 
 ### 1. Clone the Repository
 ```
-git clone <your-repo-url>
+git clone [<repo-url>](https://github.com/fatima-mustafa/AI-Chatbot-with-Speech-Recognition.git)
 cd AI_Chatbot
 ```
 
